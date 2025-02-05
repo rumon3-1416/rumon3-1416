@@ -1,23 +1,20 @@
 [<img src='https://raw.githubusercontent.com/rumon3-1416/rumon3-1416/refs/heads/main/Screenshot%20(373).png'>](https://github.com/shovoalways/)
 
-## Hi, I'm Shahid Hasan Rumon! 👋
-
-<!-- <h3>Web Developer | Frontend Enthusiast</h3> -->
+## Hi, I'm Shahid Hasan Rumon! 👋  
+### Web Developer | Frontend Enthusiast
 
 <p>
 👑 I am Web Developer <br> 
 🖊️ I love Programming </p>
 
-<p align="left"> <a href="https://twitter.com/rumon3_1416" target="blank"><img src="https://img.shields.io/twitter/follow/rumon3_1416?logo=twitter&style=for-the-badge" alt="shovoalways" /></a> </p>
-
 ## 🚀 About Me
 
-I am a passionate **Web Developer** with expertise in **HTML, CSS, JavaScript, Tailwind CSS, React.js, Node.js, Express.js, and MongoDB**. While I specialize in frontend development, I also have a solid foundation in backend technologies. I enjoy building interactive and user-friendly web applications.
+I am a passionate Web Developer with expertise in HTML, CSS, JavaScript, Tailwind CSS, React.js, Node.js, Express.js, and MongoDB. While I specialize in frontend development, I also have a solid foundation in backend technologies. I enjoy building interactive and user-friendly web applications.
 
-- 🎯 Exploring **Next.js** & **Redux Toolkit**
-- 🔧 Currently working on **an Education Platform Website**
-- 🏗️ Building cool **React.js projects**
-- 💡 Learning **Backend Development**
+- 🎯 Exploring Next.js & Redux Toolkit
+- 🔧 Currently working on an Education Platform Website
+- 🏗️ Building cool React.js projects
+- 💡 Learning Backend Development
 
 ---
 
@@ -51,8 +48,7 @@ I am a passionate **Web Developer** with expertise in **HTML, CSS, JavaScript, T
 
 ### 🔗 Connect with Me
 
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rumon3_1416) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rumon3-1416)<br>
-📧 Email : [shahid.h.rumon@gmail.com](mailto:shahid.h.rumon@gmail.com)  
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rumon3_1416) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rumon3-1416)<br> 📧 Email : [shahid.h.rumon@gmail.com](mailto:shahid.h.rumon@gmail.com)  
 📱 Phone : +8801581034403
 
 ---

@@ -1,8 +1,6 @@
 [<img src='https://raw.githubusercontent.com/rumon3-1416/rumon3-1416/refs/heads/main/Screenshot%20(373).png'>](https://github.com/shovoalways/)
 
-## Hi, I'm Shahid Hasan Rumon! 👋
-
-### Web Developer | Frontend Enthusiast
+## Hi, I'm Shahid Hasan Rumon | Frontend Developer
 
 <p>
 👑 I am Web Developer <br> 

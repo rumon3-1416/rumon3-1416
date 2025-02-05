@@ -14,6 +14,11 @@
 
 I am a passionate **Web Developer** with expertise in **HTML, CSS, JavaScript, Tailwind CSS, React.js, Node.js, Express.js, and MongoDB**. While I specialize in frontend development, I also have a solid foundation in backend technologies. I enjoy building interactive and user-friendly web applications.
 
+- 🎯 Exploring **Next.js** & **Redux Toolkit**
+- 🔧 Currently working on **an Education Platform Website**
+- 🏗️ Building cool **React.js projects**
+- 💡 Learning **Backend Development**
+
 ---
 
 ### 🛠 Tech Stack
@@ -34,10 +39,10 @@ I am a passionate **Web Developer** with expertise in **HTML, CSS, JavaScript, T
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rumon3-1416&show_icons=true&theme=radical" alt="GitHub Stats" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rumon3-1416&theme=radical&v=1" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rumon3-1416&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rumon3-1416&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumon3-1416&layout=compact&theme=radical" alt="Top Languages" />
 </p>
@@ -46,8 +51,8 @@ I am a passionate **Web Developer** with expertise in **HTML, CSS, JavaScript, T
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rumon3_1416) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rumon3-1416)<br>
+📧 Email : [shahid.h.rumon@gmail.com](mailto:shahid.h.rumon@gmail.com)  
+📱 Phone : +8801581034403
 
 ---
-
-⚡ **“Building web solutions one step at a time.”**

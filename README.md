@@ -1,6 +1,7 @@
 [<img src='https://raw.githubusercontent.com/rumon3-1416/rumon3-1416/refs/heads/main/Screenshot%20(373).png'>](https://github.com/shovoalways/)
 
-## Hi, I'm Shahid Hasan Rumon! 👋  
+## Hi, I'm Shahid Hasan Rumon! 👋
+
 ### Web Developer | Frontend Enthusiast
 
 <p>
@@ -37,7 +38,7 @@ I am a passionate Web Developer with expertise in HTML, CSS, JavaScript, Tailwin
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rumon3-1416&theme=radical&v=1" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rumon3-1416&theme=radical&v" alt="GitHub Streak" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=rumon3-1416&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>

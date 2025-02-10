@@ -47,7 +47,7 @@ I am a passionate Web Developer with expertise in HTML, CSS, JavaScript, Tailwin
 
 ### 🔗 Connect with Me
 
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rumon3_1416) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rumon3-1416) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Rumon314)<br> 📧 Email : [shahid.h.rumon@gmail.com](mailto:shahid.h.rumon@gmail.com)  
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rumon3_1416) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rumon3-1416) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Rumon314)<br> 📧 Email : [shahid.h.rumon@gmail.com](mailto:shrumon.dev@gmail.com)  
 📱 Phone : +8801581034403
 
 ---

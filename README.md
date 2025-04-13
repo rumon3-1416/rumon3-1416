@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I am a passionate Web Developer with expertise in HTML, CSS, JavaScript, Tailwind CSS, React.js, Next.js Node.js, Express.js, and MongoDB. While I specialize in frontend development, I also have a solid foundation in backend technologies. I enjoy building interactive and user-friendly web applications.
+I am a passionate Web Developer with expertise in HTML, CSS, JavaScript, Tailwind CSS, React.js, Next.js, Node.js, Express.js, and MongoDB. While I specialize in frontend development, I also have a solid foundation in backend technologies. I enjoy building interactive and user-friendly web applications.
 
 - 🎯 Exploring Next.js & Redux Toolkit
 - 🔧 Currently working on an Education Platform Website
